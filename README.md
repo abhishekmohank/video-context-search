@@ -21,7 +21,7 @@ This project is a video context search API that allows users to search for speci
 
 ### 1. Clone the repository
 ```powershell
-git clone http://github.com/abdulhakkeempa/video-context-search.git
+git clone https://github.com/abhishekmohank/video-context-search.git
 cd video-context-search
 ```
 
